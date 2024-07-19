@@ -41,6 +41,13 @@ Welcome to my GitHub! I am Zubair Hafeez, a passionate data scientist and mathem
 - **Developer Tools**: Git, GitHub, Azure, Google Colab, Mathematica, Maple, Anaconda, VS Code, PyCharm
 - **Artificial Intelligence**: Prompt Engineering, ChatGPT/OpenAI, Gemini
 - **Others**: Graphic Designing, Video Editing, Statistical Modeling, Data Engineering
+- 
+## 📈 GitHub Stats
+
+![Zubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubair-hafeez&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-hafeez&layout=compact&theme=radical)
+
 
 ## 🌐 Find Me Online
 
