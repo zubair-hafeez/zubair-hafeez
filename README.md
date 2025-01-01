@@ -2,7 +2,7 @@
 
 **M.Phil in Mathematics** | **Deep Learning Specialist** | **Data Scientist**
 
-Welcome to my GitHub! I am Zubair Hafeez, a passionate data scientist and mathematician with extensive experience in deep learning, machine learning, and AI applications. I hold an M.Phil in Mathematics from Riphah International University and have specialized in various cutting-edge technologies and methodologies.
+Welcome to my GitHub! I am Zubair Hafeez, a passionate data scientist and mathematician with extensive experience in deep learning, machine learning, and AI applications. I hold an M.Phil in Mathematics from Riphah International University and have specialized in various cutting-edge technologies and methodologies..
 
 ## 🧠 About Me
 
